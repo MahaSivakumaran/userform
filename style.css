@@ -1,0 +1,37 @@
+*{
+    background-color: rgb(87, 2, 2);
+}
+input{
+    background-color: white;
+}
+option{
+    background-color: white;
+}
+.class1{
+    color: white;
+border: 2px dotted black;
+padding: 25px;
+margin-left: 10%;max-width: fit-content;
+line-height: 30px;
+width: 350px;
+height: max-content;
+}
+.class2{
+    background-color: white;
+    padding: 5px;
+    border: none;
+    color: black;
+    border-radius: 5px;
+    border-bottom: 3px solid green;
+}
+h1{
+
+    font-family: 'Pacifico', cursive;
+}
+.para{
+   
+    color: aliceblue;
+    margin-left: 50%;
+    background-color: aliceblue;
+}
+  
